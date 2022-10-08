@@ -11,6 +11,18 @@
 ![Profile views](https://gpvc.arturio.dev/manish22d)  
 
 
+## 💬 Connect with me : 
+
+<a href="https://www.linkedin.com/in/manish-mahaseth/">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
+</a>
+<a href="https://twitter.com/ManeeshMahaseth">
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
+</a>
+<a href="mailto:mr.manish22d@gmail.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
+</a>
+
 <!---
 manish22d/manish22d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
