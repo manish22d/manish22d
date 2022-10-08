@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python Frameworks like Django/Flask
 - 💞️ I’m looking to collaborate on Python related web development
 - 💬 Ask me about Selenium, Rest Assured, Docker  
-- 📫 How to reach me mr.manish22d@gmail.com
+
 
 ## 💼 Tech Stack
 
