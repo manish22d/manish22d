@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/manish22d?style=social ![Profile views](https://gpvc.arturio.dev/manish22d)  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/manish22d?style=social"> ![Profile views](https://gpvc.arturio.dev/manish22d)  
 
 #### Mentor | Instructor | Automation Test Engineer
 - 👋 Hi, I’m Manish
